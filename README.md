@@ -1,7 +1,7 @@
 # snail
 Codewars Kata Snail Sort, 4 kyu
 
-Long, but as simple as possible to understand, I think.
+Решение несколько длинное, но, как мне кажется, максимально простое для понимания
 
 "Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
