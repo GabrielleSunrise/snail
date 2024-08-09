@@ -1,6 +1,8 @@
 # snail
 Codewars Kata Snail Sort, 4 kyu
 
+Long, but as simple as possible to understand, I think.
+
 "Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
 array = [[1,2,3],
