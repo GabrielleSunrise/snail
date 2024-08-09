@@ -1,5 +1,5 @@
 # snail
-Codewars Kata Snail Sort
+Codewars Kata Snail Sort, 4 kyu
 
 "Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
