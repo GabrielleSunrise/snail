@@ -1,6 +1,6 @@
 snail = function(arr) {
   let res = [];
-  for (let i = arr.length; i > 0; i--) {
+  while (arr.length > 0) {
     arr[0].map((item) => {
       res.push(item);
     });
